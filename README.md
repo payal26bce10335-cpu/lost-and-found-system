@@ -55,4 +55,4 @@ Run all tests from the project's **root folder** (not inside `src`):
 
 ## Author
 
-Payal
+Payal Kumari
